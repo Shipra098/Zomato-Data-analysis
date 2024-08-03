@@ -1,5 +1,5 @@
 # Zomato-Data-analysis
-https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2023/02/zomato-ft-760x570.png
+![zomato-ft-760x570](https://github.com/user-attachments/assets/b73d13b0-c046-48b3-8d9c-5075b15fc477)
 Introduction to Zomato Dataset
 The Zomato dataset provides comprehensive information about restaurants listed on Zomato, a popular restaurant discovery and food delivery service. This dataset encompasses various aspects of restaurants, including their locations, cuisines, ratings, pricing, and operational details. The dataset can be instrumental in understanding the restaurant landscape in different regions, customer preferences, and trends in the food and beverage industry.
 •	Project Scope: The Zomato Data Analysis project aims to explore and analyze Zomato content data comprehensively, including data exploration, cleaning, descriptive statistics, content analysis, time series, and correlation analysis. It will also investigate Rating engagement metrics, customer’s preference, Price distribution, culminating in summarizing key findings and providing actionable recommendations. 
